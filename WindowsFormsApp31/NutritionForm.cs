@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp31
 {
-    public partial class MessageForm : Form
+    public partial class NutritionForm : Form
     {
-        public MessageForm()
+        public NutritionForm()
         {
             InitializeComponent();
         }
